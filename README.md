@@ -1,6 +1,9 @@
 # BioDSL
 A domain specific language for describing bioprocesses.
 
+## How to use
+in progress
+
 ## Problem Statement
 A number of robust frameworks have been created for describing lab processes (OpenTrons, SiLa2, Autoprotocol, etc). These tools focus on how to instatiate, control, and describe processes at the instrumentation layer. Description of these processes is a quantized and finite task, yet the in-lab instation is highly variable. The physical instantiation is varied and subject to vendor and lab environment.
 
